@@ -1,0 +1,11 @@
+[package]
+name = "evm-opcodes"
+version = "0.1.0"
+edition = "2021"
+description = "EVM opcode metadata and static base-gas estimation"
+license = "MIT"
+repository = "https://github.com/yuniyunanie250-lgtm/evm-opcodes"
+keywords = ["ethereum", "evm", "opcodes"]
+categories = ["cryptography::cryptocurrencies"]
+
+[dependencies]
